@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.projeectName.testcases.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 41.913 sec <<< FAILURE!
+loginTest(com.projeectName.testcases.LoginPageTest)  Time elapsed: 3.433 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:819)
+	at org.testng.Assert.assertEquals(Assert.java:829)
+	at com.projeectName.testcases.LoginPageTest.loginTest(LoginPageTest.java:36)
+

@@ -1,0 +1,6 @@
+com\projectName\qa\pages\HomePage.class
+com\projeectname\qa\base\TestBase.class
+com\projectName\qa\pages\LoginPage.class
+com\projectName\qa\pages\ContactsPage.class
+com\projectName\qa\pages\RegistrationPage.class
+com\projectName\qa\util\TestUtil.class
